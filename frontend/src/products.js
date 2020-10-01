@@ -14,7 +14,7 @@ const products = [
   },
   {
     _id: '2',
-    name: 'iPhone 11 Pro 256GB Memory',
+    name: 'iPhone 11 Pro with 256GB Memory',
     image: '/images/phone.jpg',
     description:
       'Introducing the iPhone 11 Pro. A transformative triple-camera system that adds tons of capability without complexity. An unprecedented leap in battery life',
@@ -77,6 +77,6 @@ const products = [
     rating: 4,
     numReviews: 12,
   },
-]
+];
 
-export default products
+export default products;
